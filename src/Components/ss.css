@@ -1,0 +1,140 @@
+.backgroundimg1{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-ts_WjuAcpjS7XeIUkUStEZ16wzDf04nubDl-ZPA2CA89dkeR');
+    background-position:center center;
+    background-size:cover;
+    height:100vh;
+    width:auto;
+}
+.backgroundimg2{
+    background-image: url('https://images.unsplash.com/photo-1512436991641-6745cdb1723f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80');
+    background-position:center center;
+    background-size:cover;
+    height:100vh;
+    width:auto;
+}
+.backgroundimg3{
+    background-image: url('https://im.haberturk.com/galeri/2014/02/06/ver1450252496/435569/52bc4464d616ce9eae53be1bef8f40a7_k.jpg');
+    background-position:center center;
+    background-size:cover;
+    height:100vh;
+    width:auto;
+}
+.backgroundimg4{
+    background-image: url('https://ae01.alicdn.com/kf/HTB1ei8daRr0gK0jSZFnq6zRRXXad.jpg');
+    background-position:center center;
+    background-size:cover;
+    height:100vh;
+    width:auto;
+}
+.backgroundimg5{
+        background-image: url('https://free4kwallpapers.com/uploads/originals/2017/09/24/minimalist-cosmos-wallpaper.jpg');
+        background-position:center center;
+        background-size:cover;
+        height:100vh;
+        width:auto;
+    }
+.backgroundimg6{
+        background-image: url('https://c4.wallpaperflare.com/wallpaper/719/916/953/flower-petals-petals-flowers-minimalism-white-hd-wallpaper-preview.jpg');
+        background-position:center center;
+        background-size:cover;
+        height:100vh;
+        width:auto;
+    }
+    .backgroundimg7{
+        background-image: url('https://www.sldc.net/wp-content/uploads/shopping-bags-with-mark-down-percents-on-them-clipart-free-clip1.jpg');
+        background-position:center center;
+        background-size:cover;
+        height:100vh;
+        width:auto;
+    }
+.div2 h4{
+    position:absolute;
+    top:5%;
+    left:10px;
+    font-size:70px;
+}
+.div2 p{
+    position:absolute;
+    font-family:curier; 
+    top:17%;
+    left:10px;
+    font-size:50px;   
+}
+.div2 .p1{
+    position:absolute;
+    top:17%;
+    left:20px;
+    font-size:250px;    
+}
+.div2 .p2{
+    position:absolute;
+    bottom:7%;
+    left:10px;
+    font-size:200px;  
+    font-family:curier;  
+}
+.div3 img{
+    height:35vh;
+    width:20vh;
+    position:absolute;
+    right:15%;
+    top:30px;
+    border:1px solid;
+}
+.div4 img{
+    height:35vh;
+    width:20vh;
+    position:absolute;
+    right:2%;
+    top:30px;
+    border:1px solid;
+}
+.i1{
+    width:25vh; 
+    height:25vh;
+    position:relative;
+}
+.m1,.m2 {
+    width:60vh; height:40vh;
+    position:relative;
+} 
+.mm1{
+    position:relative;
+}
+.mt1:hover{
+    opacity:0.7;
+}
+.b1{
+    position:absolute;
+    margin-top:-55%;
+    margin-left:43%;
+}
+.kk {
+  width:60vh; height:52vh;
+}
+/* .ttt p{ */
+    /* position:absolute; */
+    /* bottom:6%; */
+/* } */
+.tt button{
+    position:absolute;
+    bottom:27%;
+    padding:0px;
+    left:30%;
+}
+.l1:hover,.l1:active{
+    color:black;
+    text-decoration:none;
+}
+.ig1 {
+    width:60vh;
+    height:55vh;
+   }
+.f1{
+    font-family:Times New Roman;
+    text-shadow:3px 3px red;
+}
+label{
+    font-size:2rem;
+    margin-right:10px;
+}

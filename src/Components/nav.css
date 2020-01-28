@@ -1,0 +1,22 @@
+.d1{
+    color:black;
+    text-decoration:none; 
+    font-size:25px;
+    left:10px;
+    }
+    .lik1:hover,.lik2:hover,.lik3:hover,.lik4:hover,.lik5:hover,.lik6:hover,.lik7:hover,
+    .lik1:active,.lik2:active,.lik3:active,.lik4:active,.lik5:active,.lik6:active,.lik7:active{
+        color:black;
+        text-decoration:none;
+    }
+    .nav1{
+        position:relative;
+    }
+    .nav2{
+        position:absolute;
+        right:10px;
+        top:1px;
+    }
+    .nav3{
+        margin-left:150px;
+        }

@@ -1,0 +1,8 @@
+.backgroungimg{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVudSNl3_WW3NVHX1Wg7OXHHP_ZFUCZhTiUlk539PXElSsekFC');
+    background-position:center center;
+    background-repeat:no-repeat;  
+    background-size:cover;
+    height:100vh;
+    width:100%;
+}
